@@ -1,4 +1,4 @@
-# ota_update
+# flutter_ota_pro
 
 [![pub package](https://img.shields.io/pub/v/ota_update.svg)](https://pub.dartlang.org/packages/ota_update)
 
